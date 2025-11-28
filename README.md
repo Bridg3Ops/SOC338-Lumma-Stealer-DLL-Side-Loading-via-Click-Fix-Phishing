@@ -2,7 +2,7 @@
 
 This project documents my investigation into a simulated security incident on the LetsDefend platform, where a user was targeted by a phishing campaign masquerading as a Windows 11 upgrade offer. The attack led to the deployment of the Lumma Stealer malware, emphasizing the importance of vigilance against social engineering tactics.
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - **Identified** a phishing email impersonating a legitimate Windows 11 upgrade offer.
 - **Analyzed** the deployment and behavior of the Lumma Stealer malware.
@@ -12,7 +12,7 @@ This project documents my investigation into a simulated security incident on th
 
 ---
 
-## 🛡️ Incident Overview
+## Incident Overview
 
 - **Alert Name:** SOC338 - Lumma Stealer - DLL Side-Loading via Click Fix Phishing
 - **Detection Time:** April 5, 2025
@@ -27,7 +27,7 @@ This project documents my investigation into a simulated security incident on th
 
 ---
 
-## 🔍 Investigation Steps
+## Investigation Steps
 
 ### 1. Dissecting the Phishing Email
 
@@ -47,7 +47,7 @@ Immediate actions included isolating the affected host from the network, termina
 
 ---
 
-## 🧰 Tools & Techniques Used
+## Tools & Techniques Used
 
 - **LetsDefend Platform:** For alert monitoring and endpoint analysis.
 - **VirusTotal & Hybrid Analysis:** To assess the malicious payload.
@@ -57,7 +57,7 @@ Immediate actions included isolating the affected host from the network, termina
 
 ---
 
-## 📝 Recommendations
+## Recommendations
 
 - **User Education:** Regular training on identifying phishing attempts.
 - **Email Filtering:** Implement advanced email security solutions to detect and block malicious content.
@@ -67,8 +67,4 @@ Immediate actions included isolating the affected host from the network, termina
 
 ---
 
-## 📸 Screenshots & Artifacts
 
-*(Include relevant screenshots such as email headers, process trees, and analysis reports.)*
-
----
